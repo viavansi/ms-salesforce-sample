@@ -33,7 +33,7 @@ public class SampleHelper {
 
 		DateFormat df = DateFormat.getDateInstance(DateFormat.LONG);
 
-		// Fill document items form account fields
+		// Fill document items from account fields
 		ArrayList<Item> items = new ArrayList<Item>();
 		Item item1 = new Item();
 		Item item2 = new Item();
